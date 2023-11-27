@@ -66,8 +66,10 @@ when other person updatest the repo the changes must be pulled to local machine
 ============PULL=========
 
 
+ git status will show how many commits ahead or behind you are compared to the main branch
 
-
+origin is remote version, central location/github
+local 
 
 
 
