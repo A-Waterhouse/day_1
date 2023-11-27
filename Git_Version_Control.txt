@@ -61,6 +61,10 @@ to sync them up they must be pushed to the origin
 inviting people to repo is done on the github website
 other person will clone the repo
 
+when other person updatest the repo the changes must be pulled to local machine
+
+============PULL=========
+
 
 
 
