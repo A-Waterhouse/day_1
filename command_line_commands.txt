@@ -1,0 +1,9 @@
+commandline commands
+pwd     - print working directory
+ls      - list files in directory
+ls -a   -shows hidden files (files with . is ref to working directory .. the one above/parent)
+cd      - change directory / takes to root directory
+cd..    - go up 1 level of directory
+.       - refers to where we currently are
+ 
+
