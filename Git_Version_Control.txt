@@ -1,0 +1,70 @@
+having many people on same software at same time can cause problems.
+need system in place to keep record of how process has changed overtime
+instead of using versions (v1/v1.1/v1.2 / v2.0 etc.)
+git will handle version control for us, manages how changes are made to the code and tracks it 
+changes can be observed throughout
+code can be reverted back easily and mistakes can be found, revert back to point where it was working
+
+each change is called a commit (a point in code where something has been changed)
+
+repos are source of data which we want git to manage version control
+
+-    git init        will initialse the folder
+
+and will make it the git repository
+a .git folder will be created on computer
+
+-    git log         shows information about the repo 
+
+each time a timline is created we can branch off and created onther point in history
+
+-   git status       shows status of the files and folders
+
+-   git add          adds file to the staging area
+
+-   git commit -m"(message/information)"    commits file to branch with the message
+
+git will let you know what has changed
+
+q can be used to quit pages in terminal
+
+commits should be writtern in imperative tense
+
+create repo >>> make chages >>> stage them with git add command >>> commit them with git commit -m""
+
+================
+common pitfalls
+================
+if forgot to add messgae to commit will end up in vim terminal where you cant type, i key iwll let you go into insert mode
+add changes to the top
+esc exits insert mode
+:w means write
+:q means quit
+:wq will write and quit in one go
+
+installed ohmyzsh
+
+=====================================================
+
+made new repo on git website and used git clone and address to clone it to the local pc 
+
+when changes are made onlocal machine changes dont get put to github after commit
+the local changes do not get updated automatically 
+local changes dont get sent untill told to 
+in local we can add commit change files etc and when ready the changes can be sent off to git hub uding PUSH
+
+========push=======
+
+local main and origin main are different when edited onlocal machine
+to sync them up they must be pushed to the origin
+
+inviting people to repo is done on the github website
+other person will clone the repo
+
+
+
+
+
+
+
+
