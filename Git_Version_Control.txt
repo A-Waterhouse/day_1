@@ -69,8 +69,15 @@ when other person updatest the repo the changes must be pulled to local machine
  git status will show how many commits ahead or behind you are compared to the main branch
 
 origin is remote version, central location/github
-local 
 
+
+we will be using pair programming most of the time, 2 ppl working on the same code at the same time
+2 roles, role 1 driver role 2 navigator
+driver is incharge of keyboard
+navigator sets the direction, 
+
+
+when roles are switched the code must be pushed/pulled
 
 
 
